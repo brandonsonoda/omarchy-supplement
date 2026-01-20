@@ -6,6 +6,7 @@
 ./install-stow.sh
 ./install-dotfiles.sh
 ./install-hyprland-overrides.sh
+./install-hy3.sh
 ./remove-unused-apps.sh
 
-./set-shell.sh
+# ./set-shell.sh
